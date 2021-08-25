@@ -1,0 +1,13 @@
+Origin: Unknown
+Label: Unknown
+Suite: Unknown
+Codename: Unknown
+Date: Thu, 07 Nov 2019 19:38:40 +0100
+Architectures: Unknown
+Components: main
+Description: Not available
+MD5Sum:
+ 5301309cee674c95d320cfbbef98070b 1107 base/pkglist.main
+ 5a9fd0d37ccdee0039d300b494990e79 675 base/pkglist.main.bz2
+ e87ca01f39c67fdb6dae9f1a8b8180f2 139 base/release.main
+
