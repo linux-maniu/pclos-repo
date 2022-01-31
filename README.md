@@ -1,4 +1,5 @@
 # PCLinuxOS CZ/SK Users repository
+Some of Binary files of [pclinuxoscz/pclos-specs](https://github.com/pclinuxoscz/pclos-specs)
 
 ## Contributing
 
