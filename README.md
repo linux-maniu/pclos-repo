@@ -16,6 +16,6 @@ Please adhere to this project's `code of conduct`.
   
 ## Authors
 
-- [@mmaniu](https://www.github.com/mmaniu)
+- [@marekpistorius](https://www.github.com/marekpistorius)
 
   
