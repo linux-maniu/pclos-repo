@@ -17,5 +17,6 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@marekpistorius](https://www.github.com/marekpistorius)
+- Contact: me@maniu.eu
 
   
