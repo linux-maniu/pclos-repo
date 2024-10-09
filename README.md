@@ -1,4 +1,4 @@
-# PCLinuxOS CZ/SK Users repository
+# PCLinuxOS Personaů repository
 Some of Binary files of [pclinuxoscz/pclos-specs](https://github.com/pclinuxoscz/pclos-specs)
 
 ## Contributing
@@ -12,7 +12,6 @@ Please adhere to this project's `code of conduct`.
 ## License
 
 [LGPL](https://choosealicense.com/licenses/lgpl/)
-
   
 ## Authors
 
